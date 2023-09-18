@@ -5,4 +5,4 @@
 ##### 23a
 ###### 23a
 
-![NKUST]('nkust.png')
+![NKUST]('nkust')
