@@ -21,3 +21,10 @@ print(s)
 var s="javascript syntax text";
 alert(s)
 ```
+
+|Tables|Are|Cool|
+|:--------------|:-----------:|------:|
+| col 3 is | some wordy text | $1600|
+| col 2 is  | centered | $12 |
+| zebra strpies | are neat | $1 |
+| test | 測試 | $3333 |
