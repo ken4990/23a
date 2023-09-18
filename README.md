@@ -5,12 +5,16 @@
 ##### test5
 ###### test6
 
+**粗體**  *斜體*  ~~刪除線~~
+
 ![NKUST](nkust.png)
 
 - [x] To do list
 - [ ] 2nd thing
 - [ ] 3rd thing
 - [ ] 4th thing
+
+***
 
 ```python
 s='python highlighting text'
